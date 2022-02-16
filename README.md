@@ -15,6 +15,10 @@ The OSSU curriculum is a complete education in computer science using online mat
 It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS. The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc., but specifically chosen to meet the quality criteria.
 <br/>
 
+# Planned timeline
+
+![timeline](img/timeline_prediction.png)
+
 # Courses Avaliable in this repository
 <br/>
 
