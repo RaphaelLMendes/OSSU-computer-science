@@ -34,7 +34,7 @@ It is designed according to the degree requirements of undergraduate computer sc
 
 Courses | Start Date | End Date | Repo link 
 :-- | :--: | :--: | :--: 
-[Python for Everybody](https://www.py4e.com/lessons) | 14/02/2022 | - | [Repo](https://github.com/RaphaelLMendes/Python_for_Everybody_PY4E)
+[Python for Everybody](https://www.py4e.com/lessons) | 14/02/2022 | 19/04/2022 | [Repo](https://github.com/RaphaelLMendes/Python_for_Everybody_PY4E)
 <br>
 
 ### Introduction to Computer Science
@@ -47,4 +47,4 @@ Courses | Start Date | End Date | Repo link
 
 Courses | Start Date | End Date | Repo link 
 :-- | :--: | :--: | :--: 
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | - | - | -
+[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 19/04/2022 | - | [Repo](https://github.com/RaphaelLMendes/Python_for_Everybody_PY4E)
